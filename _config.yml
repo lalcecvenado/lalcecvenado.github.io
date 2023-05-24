@@ -6,7 +6,7 @@
 name: Lalcec Venado Tuerto
 
 # Short bio or description (displayed in the header)
-description: Liga Argentina de Lucha contra el Cáncer filial Venado Tuerto
+description: Liga Argentina de Lucha Contra El Cáncer Filial Venado Tuerto
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/lalcecvenado/lalcecvenado.github.io/master/images/logoLalcec.png
@@ -53,7 +53,7 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /:year/:title/
+permalink: blog/:year/:title
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
