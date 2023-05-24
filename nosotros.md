@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nosotros
-permalink: /nosotros/
+permalink: /nosotros
 ---
 
 ### Contacto
